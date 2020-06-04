@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Color for App Bars -->
+        <item name="colorPrimary">#795548</item>
+        <!-- Darker variant for status bars and contextual app bar -->
+        <item name="colorPrimaryDark">#5D4037</item>
+        <!-- Theme UI controls like checkbox and text fields-->
+        <item name="android:colorAccent">#795548</item>
+        <!-- Background image -->
+        <item name="background">@drawable/coffee1</item>
+    </style>
+
+    <style name="HeaderTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee ordering app</string>
+
+    <string name="toppings">TOPPINGS</string>
+    <string name="your_name">Your Name</string>
+    <string name="cholocate_cream_rs_2">Cholocate Cream </string>
+    <string name="whipped_cream_rs_1">Whipped Cream </string>
+    <string name="quantity">QUANTITY</string>
+    <string name="plus">+</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="order">ORDER</string>
+    <string name="reset">RESET</string>
+    <string name="thankyou">Thank you !</string>
+
+
+    <string name="Name" translatable="false">
+        Name: <xliff:g example="ABC" id="name1">%s</xliff:g>
+    </string>
+</resources>

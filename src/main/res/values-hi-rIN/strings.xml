@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sirf java</string>
+    <string name="toppings">swaad</string>
+    <string name="your_name">aapka naam</string>
+    <string name="cholocate_cream_rs_2">chocolate cream 2 rupyee</string>
+    <string name="whipped_cream_rs_1">" whipped cream 1 rupyee"</string>
+    <string name="quantity">" matra"</string>
+    <string name="plus">+</string>
+    <string name="order">order</string>
+    <string name="reset">reset</string>
+    <string name="thankyou">dhanyavad</string>
+</resources>
